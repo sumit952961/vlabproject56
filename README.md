@@ -13,9 +13,9 @@ This experiment allows the user to interactively adjust the distance between a l
 
 <b>Name of Developer | <b>Sumit Kumar Patel
 :--|:--|
-<b> Rajkiya Engineering College Banda | <b>  
-<b> sumitkumarpatel81814481@gmail.com|     <b>  
-<b> Information Technology |  
+<b>Institute  | <b>Rajkiya Engineering College Banda  
+<b>Email id |     <b>sumitkumarpatel81814481@gmail.com  
+<b>Department |  <b> Information Technology
 
 ### Contributors List
 
