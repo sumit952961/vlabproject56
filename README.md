@@ -1,9 +1,9 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer science
+<b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Virtual Reality
+<b> Lab | <b> Virtual Reality Lab
 <b> Experiment|     <b> Allow users to adjust the distance between the light source and the fiber.
 
 ### About the Experiment 
