@@ -21,5 +21,5 @@ This experiment allows the user to interactively adjust the distance between a l
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sumit Kumar Patel | Student | Information Technology | Rajkiya Engiineering College Banda | Email id
+1 | Sumit Kumar Patel | Student | Information Technology | Rajkiya Engineering College Banda | sumitkumarpatel81814481@gmail.com
 2 | . | . | . | . | .
