@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer science
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Allow users to adjust the distance between the light source and the fiber.
 
 ### About the Experiment 
 
