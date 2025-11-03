@@ -8,17 +8,18 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This experiment allows the user to interactively adjust the distance between a light source and an optical fiber to observe how light intensity varies with distance. The goal is to demonstrate the inverse-square law of light in a virtual environment.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+
+<b>Name of Developer | <b>Sumit Kumar Patel
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Rajkiya Engineering College Banda | <b>  
+<b> sumitkumarpatel81814481@gmail.com|     <b>  
+<b> Information Technology |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Sumit Kumar Patel | Student | Information Technology | Rajkiya Engiineering College Banda | Email id
 2 | . | . | . | . | .
