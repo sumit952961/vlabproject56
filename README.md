@@ -23,7 +23,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. Ashutosh Tiwari Sir | Faculty | Information Technology | Rajkiya Engineering College Banda | Email id
 2 | Sumit Kumar Patel | Student | Information Technology | Rajkiya Engineering College Banda | sumitkumarpatel81814481@gmail.com
-3 | Rama Raman Pandey | Student | Information Technology | Rajkiya Engineering College Banda | ramaramanpandey2008@gmail.com
+3 | Rama Raman Pandey | Student | Information Technology | Rajkiya Engineering College Banda | 
 4 | Ashish Kumar | Student | Information Technology | Rajkiya Engineering College Banda | ashishgangwar7500@gmail.com
 
 
