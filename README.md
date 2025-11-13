@@ -23,8 +23,6 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Sumit Kumar Patel | Student | Information Technology | Rajkiya Engineering College Banda | sumitkumarpatel81814481@gmail.com
 2 | Rama Raman Pandey | Student | Information Technology | Rajkiya Engineering College Banda | Email id
-<<<<<<< HEAD
 3 | Ashish Kumar | Student | Information Technology | Rajkiya Engineering College Banda | Email id
-=======
 
->>>>>>> b0e1a03fe7ac0db57bff2a277bc013fd8d30cebd
+
